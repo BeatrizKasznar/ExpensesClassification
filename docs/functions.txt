@@ -1,0 +1,16 @@
+To be done:
+1. Lenght of stay > 90 days [43-48]
+2. Pre-process data [37-41], 50-52:
+    a) strip extra spaces
+    b) filters
+3. Feature engineering [59-66]
+4. Separate target from input features
+
+
+
+
+Done:
+
+
+
+
