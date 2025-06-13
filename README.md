@@ -29,8 +29,8 @@ These are the main libraries used; a full list of all dependencies can be found 
 ## **How to Run**
 
 1. **Clone the Repository:**  
-   git clone \<repository\_url\>  
-   cd \<repository\_name\>
+   > git clone \<repository\_url\>  
+   > cd \<repository\_name\>
 
 2. Install Dependencies:  
    You can set up the environment using the provided environment.yml file with Conda:  
