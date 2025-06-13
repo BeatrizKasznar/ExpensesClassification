@@ -34,11 +34,11 @@ These are the main libraries used; a full list of all dependencies can be found 
 
 2. Install Dependencies:  
    You can set up the environment using the provided environment.yml file with Conda:  
-   conda env create \-f environment.yml  
-   conda activate classification-env \# or whatever your environment name is
-
-3. **Place Data:** Ensure your DailyExpenses\_PythonProject.xlsx file is in the specified data directory (or update the path variable in the notebook).  
+   > conda env create \-f environment.yml  
+   > conda activate classification-env \
+   
+3. **Place Data:** Ensure your DailyExpenses\_PythonProject.xlsx file is in the specified data directory. There are 2 instances that refer to the path, both on the first code cell in the notebook.  
 4. **Run Jupyter Notebook:**  
-   jupyter notebook "Classification of Daily Expenses.ipynb"
+   > jupyter notebook "Classification of Daily Expenses.ipynb"
 
    Open the notebook in your browser and run all cells sequentially.
